@@ -1,0 +1,102 @@
+
+
+#header{
+	padding: 18px 0px 18px 0;
+}
+
+#branding.bg2{
+	background-image: none;
+}
+
+#branding{
+	background-color: #77c043;
+}
+
+#navigation > ul > li > a{
+	color: #fff;
+}
+
+#navigation{
+	text-shadow: none;
+}
+
+#subnavigation{
+	background-image: none; 
+	background-color: #eaeaea;
+}
+
+#subnavigation > nav > ul > li > a{
+	color: #333;
+}
+
+#sidebar h4 a{
+	color: #333;
+	font-size: 14px;
+}
+
+#footer{
+	color:#77c043;
+    	text-transform: uppercase;
+}
+
+#footer a{
+	color: #fff;
+}
+
+
+body{
+	background-image: none;
+	background-color: #222;
+}
+
+#body{
+	background-color: #eaeaea;
+}
+
+#sidebar ul li.active > a{
+	background-color: #77c043;
+	border-radius: 0px;
+	color: #fff;
+}
+
+#sidebar{
+	background-color: #333;	
+}
+
+#sidebar ul li > a{
+	color: #fff;
+	border-radius: 0px;
+}
+
+#sidebar ul li > a:hover {
+    background-color: #77c043;
+}
+
+#sidebar h4 a{
+	color: #fff;
+}
+
+#sidebar h4{
+	margin-bottom: none;
+	margin: 15px;
+	font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6{
+	line-height: none;
+}
+
+.tshirt{
+	background-color: #fff;
+	border-radius: 15px;
+	box-shadow: 5px 5px 12px #e1e1e1;
+}
+
+.tshirt .tshirtinfo .tshirtinfoorder .add-cart .button.submit, a.button.submit{
+	background-color: #77c043;
+	border-color: #77c043;
+}
+
+h2{
+	padding-top: 10px;
+}f
