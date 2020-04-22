@@ -1,8 +1,6 @@
 body {
     background-color: #000;
-    background-image: url(../images/body.jpg);
-    background-size: 250px 250px;
-    color: #333;
+     color: #333;
     font-family: "Segoe WP","Segoe UI","Helvetica Neue",Helvetica,sans-serif;
     font-size: 113px;
     font-weight: 400;
