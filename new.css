@@ -1,0 +1,6 @@
+#body {
+    background-color: #333333;
+    clear: both;
+    position: relative;
+    z-index: 1;
+}
