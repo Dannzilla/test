@@ -99,4 +99,8 @@ h1, h2, h3, h4, h5, h6{
 
 h2{
 	padding-top: 10px;
-}f
+}
+
+h3.productTitle {
+	margin-top: 25px;
+}
